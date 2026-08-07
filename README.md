@@ -10,10 +10,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,12 +60,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
