@@ -9,6 +9,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0229-majority-element-ii](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Sorting
@@ -95,4 +96,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
