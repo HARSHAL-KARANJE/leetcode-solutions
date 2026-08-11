@@ -64,6 +64,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -75,6 +76,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -84,6 +86,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -95,6 +98,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
