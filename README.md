@@ -124,10 +124,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -161,4 +163,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
