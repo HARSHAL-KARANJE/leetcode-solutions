@@ -151,6 +151,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -173,5 +174,6 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
