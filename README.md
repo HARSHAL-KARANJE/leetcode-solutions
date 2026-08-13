@@ -79,6 +79,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -93,6 +94,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
@@ -108,6 +110,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -161,6 +164,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
