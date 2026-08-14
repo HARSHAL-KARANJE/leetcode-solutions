@@ -67,6 +67,7 @@
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -113,6 +115,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -171,6 +174,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -190,4 +194,12 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
