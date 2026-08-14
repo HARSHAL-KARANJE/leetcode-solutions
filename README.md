@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -198,14 +199,24 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
