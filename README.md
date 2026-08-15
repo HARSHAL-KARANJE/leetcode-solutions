@@ -8,6 +8,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0213-house-robber-ii](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0403-frog-jump](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0403-frog-jump/) | Hard |
 | [0493-reverse-pairs](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Hash Table
@@ -151,6 +152,7 @@
 | [0070-climbing-stairs](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0213-house-robber-ii](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0403-frog-jump](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0403-frog-jump/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
