@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0403-frog-jump](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0403-frog-jump/) | Hard |
@@ -151,6 +152,7 @@
 | [0062-unique-paths](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0403-frog-jump](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0403-frog-jump/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
