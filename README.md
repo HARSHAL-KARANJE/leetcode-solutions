@@ -72,6 +72,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0901-online-stock-span](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -197,6 +198,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0901-online-stock-span](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -215,6 +217,7 @@
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0901-online-stock-span](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,4 +230,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0901-online-stock-span](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
