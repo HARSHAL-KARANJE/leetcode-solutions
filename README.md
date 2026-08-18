@@ -13,6 +13,7 @@
 | [0493-reverse-pairs](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0739-daily-temperatures](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,9 +232,22 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0901-online-stock-span](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 <!---LeetCode Topics End-->
