@@ -23,6 +23,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0229-majority-element-ii](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0895-maximum-frequency-stack](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [0895-maximum-frequency-stack](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +80,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0402-remove-k-digits](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0895-maximum-frequency-stack](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -230,6 +233,7 @@
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0895-maximum-frequency-stack](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
