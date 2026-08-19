@@ -75,6 +75,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0402-remove-k-digits](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -171,6 +172,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0072-edit-distance](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
+| [0402-remove-k-digits](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +205,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -250,4 +253,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
