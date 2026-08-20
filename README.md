@@ -75,6 +75,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
@@ -177,6 +178,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0071-simplify-path](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0402-remove-k-digits](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 ## Sliding Window
