@@ -12,6 +12,7 @@
 | [0403-frog-jump](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0403-frog-jump/) | Hard |
 | [0493-reverse-pairs](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0739-daily-temperatures](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
@@ -30,6 +31,7 @@
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0853-car-fleet](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -81,6 +83,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0402-remove-k-digits](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -215,6 +218,7 @@
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
