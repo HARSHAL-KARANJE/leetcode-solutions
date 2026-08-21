@@ -11,6 +11,7 @@
 | [0229-majority-element-ii](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0403-frog-jump](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0403-frog-jump/) | Hard |
 | [0493-reverse-pairs](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [0735-asteroid-collision](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -82,6 +83,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0402-remove-k-digits](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
+| [0735-asteroid-collision](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
@@ -271,4 +273,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
