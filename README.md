@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -81,6 +82,7 @@
 | [0071-simplify-path](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0402-remove-k-digits](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0735-asteroid-collision](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -162,6 +164,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
