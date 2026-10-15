@@ -52,6 +52,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0493-reverse-pairs](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
@@ -66,6 +67,7 @@
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0493-reverse-pairs](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -202,6 +204,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
@@ -253,6 +256,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 ## Data Stream
@@ -280,4 +284,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
