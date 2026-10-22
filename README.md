@@ -17,6 +17,7 @@
 | [0853-car-fleet](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -316,8 +317,26 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/HARSHAL-KARANJE/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
